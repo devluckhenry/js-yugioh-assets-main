@@ -13,16 +13,4 @@
 
 - HTML
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+[click aqui para testar](https://devluckhenry.github.io/js-yugioh-assets-main/)
